@@ -9,7 +9,10 @@
   "author": "maro",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
     "lodash": "^4.17.4",
+    "request": "^2.87.0",
     "yargs": "^9.0.1"
   }
 }
